@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Barvikha, initially released as a standalone game in 2017, quickly gained popularity due to its immersive world and open-ended gameplay. ","photo2":"https://iili.io/HU4J40F.jpg"},
+  {"desc3":"Developed by an indie studio, Barvikha offered players an expansive environment to explore, ","photo3":"https://iili.io/HU4J6Ug.jpg"},
+  {"desc4":" interact with NPCs, and embark on various quests. However, it was the game's modding capabilities that truly set it apart from its counterparts.","photo4":"https://iili.io/HU4Js5J.jpg"},
+  {"desc5":"Barvikha's modding community emerged organically, driven by the game's active player base and the developers' support for user-generated content","photo5":"https://iili.io/HU4JiJa.jpg"},
+  {"descd":" The developers provided modding tools, documentation, and resources, empowering players to modify and extend the game to suit their preferences.","photod":"https://iili.io/HU4JLOv.jpgBarvikha, initially released as a standalone game in 2017, quickly gained popularity due to its immersive world and open-ended gameplay. "}
    ]
  
 }
