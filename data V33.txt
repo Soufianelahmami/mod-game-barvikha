@@ -31,9 +31,9 @@
 
   
  "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"барвиха крмп Мод РП","package_name":"com.barvikharpgamemod.advicemod","icon":"https://play-lh.googleusercontent.com/-2xwBY9P_I9kTPLiUCSf1wdqC8Zjze6JQPh8WeLUXhAomqDaGMYv2bgUToekO5nNzg=w240-h480-rw"},
+   {"name":"барвиха крмп Мод РП","package_name":"com.barvikharpgamemod.advicemod","icon":"https://play-lh.googleusercontent.com/-2xwBY9P_I9kTPLiUCSf1wdqC8Zjze6JQPh8WeLUXhAomqDaGMYv2bgUToekO5nNzg=w240-h480-rw"},
+    {"name":"барвиха крмп Мод РП","package_name":"com.barvikharpgamemod.advicemod","icon":"https://play-lh.googleusercontent.com/-2xwBY9P_I9kTPLiUCSf1wdqC8Zjze6JQPh8WeLUXhAomqDaGMYv2bgUToekO5nNzg=w240-h480-rw"}
    ],
 
 "download_dialog_txt":"download text from server",
